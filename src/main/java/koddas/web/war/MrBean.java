@@ -9,7 +9,7 @@ import java.io.Serializable;
  * 
  * @author Johan Holmberg
  */
-publi class MrBean implements Serializable {
+public class MrBean implements Serializable {
 	/**
 	 * Being a serializable class, the bean needs a unique identification
 	 * number in order for the Java system to recreate saved objects.
